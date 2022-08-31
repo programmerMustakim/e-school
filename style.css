@@ -1,0 +1,98 @@
+.container1{
+    position: absolute;
+    width: 1540px;
+    height: 566px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    background-color: #F0FFF0;
+}
+
+.navbar-brand img{
+            
+            position: absolute;
+            width: 198.07px;
+            height: 59px;
+            left: 212px;
+            top: 30px
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, green, #21B573);
+    padding: 10px 25px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.separet{
+
+    width: 40%;
+    float: left;
+    padding-left:10%; 
+    padding-top: 9%;
+
+
+}
+
+.separet img{
+
+    position: absolute;
+    width: 554px;
+    height: 346px;
+    left: 791px;
+    top: 155px;
+    
+}
+
+.color{
+    color: #FD511A;
+}
+
+.colour1{
+        color: #000000;
+
+}
+     
+.colour2{
+    color: #21B573;
+
+}
+
+.container-fluid{
+    background-color: #F0FFF0;
+}
+
+.navbar{
+        padding-bottom: 0px;
+}
+
+
+.l-size{
+        position: absolute;
+        width: 198.07px;
+        height: 59px;
+        left: 150px;
+        top: 30px;
+}
+ 
+.collapse{
+
+        position: absolute;
+        width: 198.07px;
+        height: 59px;
+        left: 950px;
+        top: 30px;
+
+}
+
+.link-button2{
+    text-decoration: none;
+    background-color: #21B573;
+    padding: 5px 25px;
+    border-radius: 12px;
+    color: white;
+    font-weight: 700;
+}
