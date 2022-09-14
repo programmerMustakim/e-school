@@ -8,6 +8,7 @@
     background-color: #F0FFF0;
 }
 
+
 .navbar-brand img{
             
             position: absolute;
@@ -166,4 +167,60 @@
 .text-p{
     text-align: center;
     color: #413960;
+}
+
+.t-color{
+        padding-top: 120px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 54px;
+        color: #000000;
+        text-align: center;
+}
+
+.separet-2{
+    position: absolute;
+    width: 40%;
+    left: 470px;
+    margin-left: 1%;
+    padding-left:6%;  
+
+}  
+
+.separet-2 img{
+    position: absolute;
+    left: -100px;
+}
+
+.container5{
+    padding-top: 90px;
+}
+
+
+.container6{
+    margin-top: 200px;
+    width: 1800px;
+    height: 250px;
+    background: #282531;
+    
+    
+
+}
+
+.col-sm-6{
+    color: white;
+    margin-top: 50px;
+}
+
+.col-sm-2{
+    color: white;
+    margin-top: 50px;
+}
+
+.footer{
+  text-align: center;
+  color: white;
+  margin-top: 50px;
 }
